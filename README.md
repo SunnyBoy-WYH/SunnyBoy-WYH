@@ -21,13 +21,13 @@
 # 开源项目
 
 ## 开源项目
-### Apollo config
+### Apollo config (https://github.com/apolloconfig/apollo)
 
 提供非prop格式的文件比对
 https://github.com/apolloconfig/apollo/pull/4533
 https://github.com/apolloconfig/apollo/pull/4547
 
-### Nightingale
+### Nightingale (https://github.com/ccfos/nightingale)
 
 提供批量metric查询接口，提高性能
 
