@@ -32,4 +32,8 @@
 
 提供批量metric查询接口，提高性能
 
+- https://github.com/ccfos/nightingale/pull/1052
+
+屏蔽规则支持编辑、禁用
+
 - https://github.com/ccfos/nightingale/pull/1144
