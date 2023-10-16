@@ -1,4 +1,4 @@
-![SunnyBoy-WYH's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
 
 # 联系方式
 
