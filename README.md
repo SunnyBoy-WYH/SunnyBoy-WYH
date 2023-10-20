@@ -22,6 +22,10 @@
 
 ## 开源项目
 ### HugeGraph（https://github.com/apache/incubator-hugegraph）
+支持慢查询日志
+
+- https://github.com/apache/incubator-hugegraph/pull/2327
+
 集成Arthas能力
 
 - https://github.com/apache/incubator-hugegraph/pull/2278
