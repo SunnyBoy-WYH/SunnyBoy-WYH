@@ -21,7 +21,7 @@
 # 开源项目
 
 ## 开源项目
-### Apache-HugeGraph（https://github.com/apache/incubator-hugegraph）
+### Apache-HugeGraph（https://github.com/apache/incubator-hugegraph)
 支持慢查询日志
 
 - https://github.com/apache/incubator-hugegraph/pull/2327
