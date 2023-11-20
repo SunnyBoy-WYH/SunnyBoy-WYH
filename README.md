@@ -21,7 +21,7 @@
 # 开源项目
 
 ## 开源项目
-### HugeGraph（https://github.com/apache/incubator-hugegraph）
+### Apache-HugeGraph（https://github.com/apache/incubator-hugegraph）
 支持慢查询日志
 
 - https://github.com/apache/incubator-hugegraph/pull/2327
@@ -45,7 +45,7 @@
 - https://github.com/apolloconfig/apollo/pull/4533
 - https://github.com/apolloconfig/apollo/pull/4547
 
-### Nightingale (https://github.com/ccfos/nightingale)
+### CCF-Nightingale (https://github.com/ccfos/nightingale)
 
 提供批量metric查询接口，提高性能
 
@@ -54,3 +54,9 @@
 屏蔽规则支持编辑、禁用
 
 - https://github.com/ccfos/nightingale/pull/1144
+
+### Apache-EventMesh
+
+集成飞书Sink Connector
+
+- https://github.com/apache/eventmesh/pull/4522
